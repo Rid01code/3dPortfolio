@@ -1,5 +1,7 @@
 import localFont from "next/font/local";
 import "./globals.css";
+import clsx from "clsx";
+import FireFliesBackground from "@/Components/FireFliesBackground";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -21,9 +23,10 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={clsx(geistSans.variable, "bg-background text-foreground")}
       >
         {children}
+        <FireFliesBackground/>
       </body>
     </html>
   );
