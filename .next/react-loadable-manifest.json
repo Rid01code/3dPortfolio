@@ -1,17 +1,10 @@
 {
-  "app\\About\\page.jsx -> @/Components/Models/SpiderMan": {
-    "id": 5030,
-    "files": [
-      "static/chunks/673-8cf4dc86dfd4677f.js",
-      "static/chunks/30.f6655cd81b2810bd.js"
-    ]
-  },
   "node_modules\\@react-three\\drei\\core\\VideoTexture.js -> hls.js": {
-    "id": null,
+    "id": "node_modules\\@react-three\\drei\\core\\VideoTexture.js -> hls.js",
     "files": []
   },
   "node_modules\\@react-three\\drei\\web\\FaceLandmarker.js -> @mediapipe/tasks-vision": {
-    "id": null,
+    "id": "node_modules\\@react-three\\drei\\web\\FaceLandmarker.js -> @mediapipe/tasks-vision",
     "files": []
   }
 }

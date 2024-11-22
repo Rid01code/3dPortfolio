@@ -1,1 +1,0 @@
-"use strict";exports.id=921,exports.ids=[921],exports.modules={7921:(e,r,s)=>{s.r(r),s.d(r,{default:()=>o});let o=(0,s(8570).createProxy)(String.raw`C:\Users\raham\OneDrive\Desktop\programming-projects\portfolio\Components\Models\SpiderMans.jsx#default`)}};
